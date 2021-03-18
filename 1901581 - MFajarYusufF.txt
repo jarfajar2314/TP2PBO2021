@@ -1,0 +1,16 @@
+Saya Muhammad Fajar Yusuf Firdaus mengerjakan evaluasi TP2 - DPBO dalam mata kuliah DPBO untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan :
+-Sempat susah mencari installer IDE untuk 32bit
+-Sempat susah mengkoneksikan dengan database
+-Sempat susah mengatur panel panel (menambahkan panel malah membuat berantakan)
+
+Hal Baru :
+-Koneksi jframe ke sql database
+-Penggunaan IDE untuk jframe
+
+Fitur :
+-Input Data -> jika kosong maka akan muncul dialog box data tidak boleh kosong
+-Tampilkan table dari data yang terdapat di sql
+-Input Data masuk ke database
+-Info
